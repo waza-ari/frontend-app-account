@@ -15,6 +15,11 @@ const siteLanguageList = [
     released: false,
   },
   {
+    code: 'de-de',
+    name: 'Deutsch',
+    released: true,
+  },
+  {
     code: 'es-419',
     name: 'Español (Latinoamérica)',
     released: true,
