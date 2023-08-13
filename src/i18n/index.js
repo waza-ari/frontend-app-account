@@ -1,5 +1,5 @@
 import arMessages from './messages/ar.json';
-import deMessages from './messages/de.json';
+import dedeMessages from './messages/de_DE.json';
 import es419Messages from './messages/es_419.json';
 import faIRMessages from './messages/fa_IR.json';
 import frMessages from './messages/fr.json';
@@ -23,7 +23,7 @@ const messages = {
   'zh-cn': zhcnMessages,
   pt: ptMessages,
   it: itMessages,
-  de: deMessages,
+  'de-de': dedeMessages,
   hi: hiMessages,
   'fr-ca': frCAMessages,
   ru: ruMessages,
