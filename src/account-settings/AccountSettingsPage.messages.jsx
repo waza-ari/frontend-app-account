@@ -570,6 +570,76 @@ const messages = defineMessages({
     defaultMessage: 'Notifications',
     description: 'Label for Notifications',
   },
+  'account.settings.field.work.experience': {
+    id: 'account.settings.work.experience',
+    defaultMessage: 'Work Experience',
+    description: 'Label for account settings Work experience field.',
+  },
+  'account.settings.field.work.experience.empty': {
+    id: 'account.settings.field.work.experience.empty',
+    defaultMessage: 'Add work experience',
+    description: 'Placeholder for empty account settings work experience field.',
+  },
+  'account.settings.field.work.experience.options.empty': {
+    id: 'account.settings.field.work.experience.options.empty',
+    defaultMessage: 'Select work experience',
+    description: 'Placeholder for the work experience levels dropdown.',
+  },
+  'account.settings.field.work.experience.options.0': {
+    id: 'account.settings.field.work.experience.options.0',
+    defaultMessage: '0',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.1': {
+    id: 'account.settings.field.work.experience.options.1',
+    defaultMessage: '1',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.2': {
+    id: 'account.settings.field.work.experience.options.2',
+    defaultMessage: '2',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.3': {
+    id: 'account.settings.field.work.experience.options.3',
+    defaultMessage: '3',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.4': {
+    id: 'account.settings.field.work.experience.options.4',
+    defaultMessage: '4',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.5': {
+    id: 'account.settings.field.work.experience.options.5',
+    defaultMessage: '5',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.6': {
+    id: 'account.settings.field.work.experience.options.6',
+    defaultMessage: '6',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.7': {
+    id: 'account.settings.field.work.experience.options.7',
+    defaultMessage: '7',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.8': {
+    id: 'account.settings.field.work.experience.options.8',
+    defaultMessage: '8',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.9': {
+    id: 'account.settings.field.work.experience.options.9',
+    defaultMessage: '9',
+    description: 'The label for account settings work experience option.',
+  },
+  'account.settings.field.work.experience.options.10+': {
+    id: 'account.settings.field.work.experience.options.10+',
+    defaultMessage: '10+',
+    description: 'The label for account settings work experience option.',
+  },
 });
 
 export default messages;
