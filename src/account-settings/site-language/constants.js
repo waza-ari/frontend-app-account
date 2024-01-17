@@ -85,7 +85,7 @@ const siteLanguageList = [
     released: true,
   },
   {
-    code: 'de',
+    code: 'de-de',
     name: 'German',
     released: true,
   },
